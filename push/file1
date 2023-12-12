@@ -1,0 +1,31 @@
+
+commit 87e9bfb0ac9f6c277bda6614d7c83ce62d986461
+Author: franck-89 <franckfossi@outlook.com>
+Date:   Wed Dec 6 08:44:31 2023 -0600
+
+    book begining
+
+USER@DESKTOP-7OMSENE MINGW64 ~/desktop/GIT (bugfix)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+USER@DESKTOP-7OMSENE MINGW64 ~/desktop/GIT (master)
+$ git status
+On branch bugfix
+nothing to commit, working tree clean
+
+USER@DESKTOP-7OMSENE MINGW64 ~/desktop/GIT (bugfix)
+$ git log --oneline
+c9c8bb4 (HEAD -> bugfix, master) branch commitment
+8b4c4c8 added pic2
+ffc1ab3 picturesd
+b86905f new lines
+08f3528 begining 3
+1ded1a1 book begining 3
+38bedbc book begining 2
+87e9bfb book begining
+
+USER@DESKTOP-7OMSENE MINGW64 ~/desktop/GIT (bugfix)
+$ git remote-v
+
