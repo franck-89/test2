@@ -10,3 +10,5 @@ ansibble
 terraform
 aws
 azure
+sql
+golang
